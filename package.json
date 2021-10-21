@@ -1,0 +1,11 @@
+{
+  "name": "SimpleBlog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mengyuan0818/SimpleBlog",
+  "author": "meng_yuan <mengyuan@yuanxinjituan.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
