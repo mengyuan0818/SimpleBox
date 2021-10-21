@@ -1,5 +1,6 @@
 module.exports = {
   title: 'SimpleBox',
+  base: '/SimpleBox/',
   themeConfig: {
     smoothScroll: true,
     logo: '/logo.png',
