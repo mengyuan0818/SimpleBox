@@ -1,6 +1,6 @@
 <template>
-  <div class="home" ref="homePage">
-    
+  <div class="home-page" ref="homePage">
+    <img :src="$withBase('/bg.svg')" alt="">
   </div>
 </template>
 
@@ -10,7 +10,12 @@ export default {
 </script>
 
 <style lang='scss' scoped>
-.home {
-  
+.home-page {
+  height: 100%;
+  width: 100% !important;
+  overflow: hidden;
+  img {
+    background-repeat: no-repeat;
+  }
 }
 </style>
