@@ -10,6 +10,10 @@
     "docs:build": "vuepress build docs"
   },
   "devDependencies": {
+    "async-validator": "1.11.5",
+    "element-ui": "^2.15.6",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^7.3.1",
     "vuepress": "^1.8.2"
   }
 }
